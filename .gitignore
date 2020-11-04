@@ -1,3 +1,7 @@
+dwm
+*.orig
+*.rej
+
 # Prerequisites
 *.d
 
